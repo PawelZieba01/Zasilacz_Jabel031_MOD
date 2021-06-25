@@ -1,2 +1,2 @@
 # Zasilacz_Jabel031_MOD
-Modyfikacja zasilacza Jabel031
+Projekt zmodyfikowanego zasilacza JABEL_031
